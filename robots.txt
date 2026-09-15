@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://metalearnhub.github.io/dijae-dadula-ai-native-systems-architect-cv/sitemap.xml
